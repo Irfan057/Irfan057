@@ -2,6 +2,8 @@
 
 ![github-header-image (5)](https://github.com/user-attachments/assets/ba284da2-164a-4306-8896-aee70f42e19a)
 
+##About me
+
 I am a Software Engineering student at the University of Malaya. Currently, I'm in my third year of the program. I am passionate about building innovative software solutions and am always eager to learn new technologies.
 
 
@@ -15,8 +17,19 @@ I am a Software Engineering student at the University of Malaya. Currently, I'm 
 
 🤔 I’m looking for help with implementing user authentication and authorization in web applications, specifically learn how to effectively manage user sessions, handle token-based authentication, and implement role-based access control.
 
-💬 Ask me about anything related to software development, including mobile app development, algorithms, and data structures. I'm also happy to discuss project ideas, coding best practices, or tips for improving your programming skills!
+##Skills
 
-📫 How to reach me: Feel free to connect with me here on GitHub or email me at [rahmanirfanur057@gmail.com].
+Programming languages: 
 
--->
+--> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+##📫 Contact me:
+
+Linkedin: https://www.linkedin.com/in/irfanur-rahman-456265259/
+Email: rahmanirfanur057@gmail.com
+
+
+
