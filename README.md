@@ -1,5 +1,5 @@
 ## Hi there 👋
-(https://github.com/user-attachments/assets/684be6a1-f1e8-4fbb-8a20-4d12437208c5)
+![Header Banner](Irfan057/github-header-image.png)
 )
 
 <!--
