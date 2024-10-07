@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Header Banner](Irfan057/github-header-image.png)
-)
+
+![github-header-image](https://github.com/user-attachments/assets/375a87cb-5502-4709-8416-bd1a350b1940)
 
 <!--
 **Irfan057/Irfan057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
