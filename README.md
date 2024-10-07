@@ -2,7 +2,7 @@
 
 ![github-header-image (5)](https://github.com/user-attachments/assets/ba284da2-164a-4306-8896-aee70f42e19a)
 
-##About me
+## About me
 
 I am a Software Engineering student at the University of Malaya. Currently, I'm in my third year of the program. I am passionate about building innovative software solutions and am always eager to learn new technologies.
 
